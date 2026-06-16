@@ -1,0 +1,45 @@
+Casa azul escuro #183063
+ferramentas cinza escuro #535960
+branco #fffff
+preto #000000
+
+
+:root{
+  --primary: #183063;/* Cor dominante títulos, botões principais, logo e links importanes(Nunca como fundo pesado em áreas longas de texto) */
+  --secondary: #535960;/* Cor de apoio subtítulos, texto secundários, ícones neutros(Ela sustenta o azul, não compete)*/
+  --accent: #ff7d4b;/*Cor de ação(CTA) botão de "Solicitar orçamento" hover, destaques pontual(Nada de fundo grande, nada de texto longo)*/
+  --white: #ffffff;/* Neutro, fundo, separação de seções, contraste*/
+  --light: #EAEAEA;/* Neutro, fundo, separação de seções, contraste*/
+  --dark: #000000;/* Neutro, fundo, separação de seções, contraste*/
+
+	--fnt-one: "Open Sans", sans-serif;
+	--fnt-two: "Work Sans", sans-serif;
+}
+
+
+
+fontes: Open sans e work sans
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+font-family: "Open Sans", sans-serif;
+font-family: "Work Sans", sans-serif;
+
+
+
+
+
+ Detailed Prompt for the Main Logo (Jr Manutenção)A modern and professional logo for a maintenance company. The design should be an abstract, geometric icon that combines elements of construction and home repair.Main Structure: A centralized, clean, and minimalist icon.Elements:A stylized and angular house/building (in dark blue, $\#183063$) occupying the right side of the icon.Maintenance Tools: A crossed hammer and a paintbrush (in dark gray, $\#535960$) integrated on the left. The tools and the house should be contained within a geometric shape (like a slanted square or a hollow hexagon).Movement/Dynamism: An orbital swoosh or arc (in dark gray, $\#535960$) circling the central icon, suggesting fast and comprehensive service.Colors: Strict adherence to Dark/Navy Blue $(\#183063)$ and Dark/Slate Gray $(\#535960)$. The logo's background should be a very light gray $(\#E5E5E5)$.Typography: The name "Jr manutenção" should be placed directly beneath the icon, in a modern, strong, and legible sans-serif font, using the same dark blue color as the icon.Style: 2D vector logo design, flat design, with sharp lines and visual impact.
+
+
+
+
+A sub-logo or brand icon (monogram) that is a compact, circular version of the main logo, ideal for avatars and favicons.Main Structure: A circle or seal that encapsulates the design.Elements:Initials: The letters "J" and "M" (for Jr Manutenção) in a bold, geometric sans-serif font. The letter "J" should be slightly overlapped or connected to the "M".Maintenance Symbol: At the bottom of the letters, include a small, stylized tool symbol, such as a wrench, anchoring the initials.Outline: An outer circular ring (in dark gray, $\#535960$) surrounding the initials.Colors: Use the brand's palette: the initials "J" and "M" in Dark/Navy Blue $(\#183063)$, and the wrench and circular outline in Dark/Slate Gray $(\#535960)$.Style: 2D vector monogram, minimalist, and strong. The background should be a very light gray $(\#E5E5E5)$.
+
+
+Azulejista	ri-grid-fill ou ri-layout-grid-fill	Representa a paginação dos pisos e azulejos na parede/chão.
+Eletricista	ri-flashlight-fill ou ri-plug-fill	O raio (energia) ou o plugue são símbolos universais para elétrica.
+Pintor	ri-paint-brush-fill ou ri-paint-fill	O pincel ou o rolo de pintura identificam o acabamento estético imediatamente.
+Gesseiro	ri-shape-2-fill ou ri-ruler-2-fill	Como não há um ícone de gesso, formas geométricas ou ferramentas de medição (esquadro) remetem ao forro e molduras.
+Encanador	ri-drop-fill ou ri-water-flash-fill
+
